@@ -1,0 +1,7 @@
+notes.txt
+
+How can I transfer my git repository From Windows file system to wsl. There is a Docker compose in there, and it has a volume map to somewhere in Windows. 
+
+I want to move a github Project from the windows file system To wsl 
+
+Does this migrate the data? I have docker Volume mounts In the windows file system   
